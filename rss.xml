@@ -7,6 +7,17 @@
 		<atom:link href="http://blog.htmldom.ru/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Подборка на спортивные каналы, группы, сообщества</title>
+				<description><![CDATA[
+					<a href="http://blog.htmldom.ru/blog/sport/2020-04-20-linkssportonweb.html"><img width="100%" src="http://blog.htmldom.ruimages/sport/2020/2020-04-20-linkssportonweb/1.jpg"></a>
+					Подборка интернет ресурсов на спортивную тему, в основном бег, плавание и фитнесс
+					]]></description>
+				<pubDate>Mon, 20 Apr 2020 00:00:00 +0300</pubDate>
+				<link>http://blog.htmldom.ru/blog/sport/2020-04-20-linkssportonweb.html</link>
+				<guid isPermaLink="true">http://blog.htmldom.ru/blog/sport/2020-04-20-linkssportonweb.html</guid>
+			</item>
+		
+			<item>
 				<title>Davinci resolve 16 - как добавить в файл внешние субтитры.</title>
 				<description><![CDATA[
 					<a href="http://blog.htmldom.ru/blog/lifehacks/2020-04-19-davinci-resolve-extsubs.html"><img width="100%" src="http://blog.htmldom.ruimages/lifehacks/2020/2020-04-19-davinci-resolve-extsubs/1.jpg"></a>

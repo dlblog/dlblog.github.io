@@ -7,17 +7,6 @@
 		<atom:link href="http://blog.htmldom.ru/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Проверочный пост</title>
-				<description><![CDATA[
-					<a href="http://blog.htmldom.ru/blog/testc/2020-04-21-test-post.html"><img width="100%" src="http://blog.htmldom.ruimages/URL категории/Папка с изображением/1.jpg"></a>
-					Описание
-					]]></description>
-				<pubDate>Tue, 21 Apr 2020 00:00:00 +0300</pubDate>
-				<link>http://blog.htmldom.ru/blog/testc/2020-04-21-test-post.html</link>
-				<guid isPermaLink="true">http://blog.htmldom.ru/blog/testc/2020-04-21-test-post.html</guid>
-			</item>
-		
-			<item>
 				<title>Дерганье картинки после монтажа</title>
 				<description><![CDATA[
 					<a href="http://blog.htmldom.ru/blog/lifehacks/2020-04-21-framerate-on-render.html"><img width="100%" src="http://blog.htmldom.ruimages/lifehacks/2020/2020-04-21-framerate-on-render/1.jpg"></a>

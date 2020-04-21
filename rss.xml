@@ -7,6 +7,39 @@
 		<atom:link href="http://blog.htmldom.ru/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Проверочный пост</title>
+				<description><![CDATA[
+					<a href="http://blog.htmldom.ru/blog/testc/2020-04-21-test-post.html"><img width="100%" src="http://blog.htmldom.ruimages/URL категории/Папка с изображением/1.jpg"></a>
+					Описание
+					]]></description>
+				<pubDate>Tue, 21 Apr 2020 00:00:00 +0300</pubDate>
+				<link>http://blog.htmldom.ru/blog/testc/2020-04-21-test-post.html</link>
+				<guid isPermaLink="true">http://blog.htmldom.ru/blog/testc/2020-04-21-test-post.html</guid>
+			</item>
+		
+			<item>
+				<title>Дерганье картинки после монтажа</title>
+				<description><![CDATA[
+					<a href="http://blog.htmldom.ru/blog/lifehacks/2020-04-21-framerate-on-render.html"><img width="100%" src="http://blog.htmldom.ruimages/lifehacks/2020/2020-04-21-framerate-on-render/1.jpg"></a>
+					Как решить проблему дерганья видео после монтажа
+					]]></description>
+				<pubDate>Tue, 21 Apr 2020 00:00:00 +0300</pubDate>
+				<link>http://blog.htmldom.ru/blog/lifehacks/2020-04-21-framerate-on-render.html</link>
+				<guid isPermaLink="true">http://blog.htmldom.ru/blog/lifehacks/2020-04-21-framerate-on-render.html</guid>
+			</item>
+		
+			<item>
+				<title>Инвестирование и торговля акциями.</title>
+				<description><![CDATA[
+					<a href="http://blog.htmldom.ru/blog/finance/2020-04-21-trading.html"><img width="100%" src="http://blog.htmldom.ruimages/finance/2020/trading/1.jpg"></a>
+					Описание
+					]]></description>
+				<pubDate>Tue, 21 Apr 2020 00:00:00 +0300</pubDate>
+				<link>http://blog.htmldom.ru/blog/finance/2020-04-21-trading.html</link>
+				<guid isPermaLink="true">http://blog.htmldom.ru/blog/finance/2020-04-21-trading.html</guid>
+			</item>
+		
+			<item>
 				<title>Подборка на спортивные каналы, группы, сообщества</title>
 				<description><![CDATA[
 					<a href="http://blog.htmldom.ru/blog/sport/2020-04-20-linkssportonweb.html"><img width="100%" src="http://blog.htmldom.ruimages/sport/2020/2020-04-20-linkssportonweb/1.jpg"></a>
@@ -15,6 +48,17 @@
 				<pubDate>Mon, 20 Apr 2020 00:00:00 +0300</pubDate>
 				<link>http://blog.htmldom.ru/blog/sport/2020-04-20-linkssportonweb.html</link>
 				<guid isPermaLink="true">http://blog.htmldom.ru/blog/sport/2020-04-20-linkssportonweb.html</guid>
+			</item>
+		
+			<item>
+				<title>Голограмма для короля</title>
+				<description><![CDATA[
+					<a href="http://blog.htmldom.ru/blog/reviews/2020-04-20-a-hologram-for-the-king.html"><img width="100%" src="http://blog.htmldom.ruimages/reviews/2020/a-hologram-for-the-king/1.jpg"></a>
+					Обзор фильма Голограмма для короля.
+					]]></description>
+				<pubDate>Mon, 20 Apr 2020 00:00:00 +0300</pubDate>
+				<link>http://blog.htmldom.ru/blog/reviews/2020-04-20-a-hologram-for-the-king.html</link>
+				<guid isPermaLink="true">http://blog.htmldom.ru/blog/reviews/2020-04-20-a-hologram-for-the-king.html</guid>
 			</item>
 		
 			<item>

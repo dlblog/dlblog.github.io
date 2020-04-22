@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>DLBlog</title>
+		<description>Блог об электронике, технологиях, о современных гаджетов, и другая актуальная информация современной IT индустрии</description>
+		<link>http://blog.htmldom.ru</link>
+		<atom:link href="http://blog.htmldom.ru/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Дерганье картинки после монтажа</title>
+				<description><![CDATA[
+					<a href="http://blog.htmldom.ru/blog/lifehacks/2020-04-21-framerate-on-render.html"><img width="100%" src="http://blog.htmldom.ruimages/lifehacks/2020/2020-04-21-framerate-on-render/1.jpg"></a>
+					Как решить проблему дерганья видео после монтажа
+					]]></description>
+				<pubDate>Tue, 21 Apr 2020 00:00:00 +0300</pubDate>
+				<link>http://blog.htmldom.ru/blog/lifehacks/2020-04-21-framerate-on-render.html</link>
+				<guid isPermaLink="true">http://blog.htmldom.ru/blog/lifehacks/2020-04-21-framerate-on-render.html</guid>
+			</item>
+		
+			<item>
+				<title>Инвестирование и торговля акциями.</title>
+				<description><![CDATA[
+					<a href="http://blog.htmldom.ru/blog/finance/2020-04-21-trading.html"><img width="100%" src="http://blog.htmldom.ruimages/finance/2020/trading/1.jpg"></a>
+					Описание
+					]]></description>
+				<pubDate>Tue, 21 Apr 2020 00:00:00 +0300</pubDate>
+				<link>http://blog.htmldom.ru/blog/finance/2020-04-21-trading.html</link>
+				<guid isPermaLink="true">http://blog.htmldom.ru/blog/finance/2020-04-21-trading.html</guid>
+			</item>
+		
+			<item>
+				<title>Подборка ссылок на обучающие статьи, сайты</title>
+				<description><![CDATA[
+					<a href="http://blog.htmldom.ru/blog/web/2020-04-21-best-learning-links.html"><img width="100%" src="http://blog.htmldom.ruimages/URL категории/Папка с изображением/1.jpg"></a>
+					Подборка ссылок на обучающие материалы по fronted
+					]]></description>
+				<pubDate>Tue, 21 Apr 2020 00:00:00 +0300</pubDate>
+				<link>http://blog.htmldom.ru/blog/web/2020-04-21-best-learning-links.html</link>
+				<guid isPermaLink="true">http://blog.htmldom.ru/blog/web/2020-04-21-best-learning-links.html</guid>
+			</item>
+		
+			<item>
+				<title>Подборка на спортивные каналы, группы, сообщества</title>
+				<description><![CDATA[
+					<a href="http://blog.htmldom.ru/blog/sport/2020-04-20-linkssportonweb.html"><img width="100%" src="http://blog.htmldom.ruimages/sport/2020/2020-04-20-linkssportonweb/1.jpg"></a>
+					Подборка интернет ресурсов на спортивную тему, в основном бег, плавание и фитнесс
+					]]></description>
+				<pubDate>Mon, 20 Apr 2020 00:00:00 +0300</pubDate>
+				<link>http://blog.htmldom.ru/blog/sport/2020-04-20-linkssportonweb.html</link>
+				<guid isPermaLink="true">http://blog.htmldom.ru/blog/sport/2020-04-20-linkssportonweb.html</guid>
+			</item>
+		
+			<item>
+				<title>Голограмма для короля</title>
+				<description><![CDATA[
+					<a href="http://blog.htmldom.ru/blog/reviews/2020-04-20-a-hologram-for-the-king.html"><img width="100%" src="http://blog.htmldom.ruimages/reviews/2020/a-hologram-for-the-king/1.jpg"></a>
+					Обзор фильма Голограмма для короля.
+					]]></description>
+				<pubDate>Mon, 20 Apr 2020 00:00:00 +0300</pubDate>
+				<link>http://blog.htmldom.ru/blog/reviews/2020-04-20-a-hologram-for-the-king.html</link>
+				<guid isPermaLink="true">http://blog.htmldom.ru/blog/reviews/2020-04-20-a-hologram-for-the-king.html</guid>
+			</item>
+		
+			<item>
+				<title>Davinci resolve 16 - как добавить в файл внешние субтитры.</title>
+				<description><![CDATA[
+					<a href="http://blog.htmldom.ru/blog/lifehacks/2020-04-19-davinci-resolve-extsubs.html"><img width="100%" src="http://blog.htmldom.ruimages/lifehacks/2020/2020-04-19-davinci-resolve-extsubs/1.jpg"></a>
+					как сделать автоматические субтитры в youtube и добавить в проект Davici resolve
+					]]></description>
+				<pubDate>Sun, 19 Apr 2020 00:00:00 +0300</pubDate>
+				<link>http://blog.htmldom.ru/blog/lifehacks/2020-04-19-davinci-resolve-extsubs.html</link>
+				<guid isPermaLink="true">http://blog.htmldom.ru/blog/lifehacks/2020-04-19-davinci-resolve-extsubs.html</guid>
+			</item>
+		
+			<item>
+				<title>Изучаем flexbox</title>
+				<description><![CDATA[
+					<a href="http://blog.htmldom.ru/blog/web/2020-04-17-learning-flexbox.html"><img width="100%" src="http://blog.htmldom.ruimages/web/2020/2020-04-17-learning-flexbox/1.jpg"></a>
+					flexbox уроки, трюки
+					]]></description>
+				<pubDate>Fri, 17 Apr 2020 00:00:00 +0300</pubDate>
+				<link>http://blog.htmldom.ru/blog/web/2020-04-17-learning-flexbox.html</link>
+				<guid isPermaLink="true">http://blog.htmldom.ru/blog/web/2020-04-17-learning-flexbox.html</guid>
+			</item>
+		
+	</channel>
+</rss>

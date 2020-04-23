@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://dlblog.ru/blog/sport/2020-04-23-heart-rate.html</loc>
+    <lastmod>2020-04-23T00:00:00+03:00</lastmod>
+  </url>
+  <url>
     <loc>http://dlblog.ru/blog/lifehacks/2020-04-21-framerate-on-render.html</loc>
     <lastmod>2020-04-21T00:00:00+03:00</lastmod>
   </url>
@@ -32,47 +36,47 @@
   
   <url>
     <loc>http://dlblog.ru/about.html</loc>
-    <lastmod>2020-04-22T21:53:36+03:00</lastmod>
+    <lastmod>2020-04-23T13:48:26+03:00</lastmod>
   </url>
   <url>
     <loc>http://dlblog.ru/</loc>
-    <lastmod>2020-04-22T21:53:36+03:00</lastmod>
+    <lastmod>2020-04-23T13:48:26+03:00</lastmod>
   </url>
   <url>
     <loc>http://dlblog.ru/rss.xml</loc>
-    <lastmod>2020-04-22T21:53:36+03:00</lastmod>
+    <lastmod>2020-04-23T13:48:26+03:00</lastmod>
   </url>
   <url>
     <loc>http://dlblog.ru/search.html</loc>
-    <lastmod>2020-04-22T21:53:36+03:00</lastmod>
+    <lastmod>2020-04-23T13:48:26+03:00</lastmod>
   </url>
   <url>
     <loc>http://dlblog.ru/sitemap.xml</loc>
-    <lastmod>2020-04-22T21:53:36+03:00</lastmod>
+    <lastmod>2020-04-23T13:48:26+03:00</lastmod>
   </url>
   <url>
     <loc>http://dlblog.ru/blog/lifehacks/</loc>
-    <lastmod>2020-04-22T21:53:36+03:00</lastmod>
+    <lastmod>2020-04-23T13:48:26+03:00</lastmod>
   </url>
   <url>
     <loc>http://dlblog.ru/blog/sport/</loc>
-    <lastmod>2020-04-22T21:53:36+03:00</lastmod>
+    <lastmod>2020-04-23T13:48:26+03:00</lastmod>
   </url>
   <url>
     <loc>http://dlblog.ru/blog/finance/</loc>
-    <lastmod>2020-04-22T21:53:36+03:00</lastmod>
+    <lastmod>2020-04-23T13:48:26+03:00</lastmod>
   </url>
   <url>
     <loc>http://dlblog.ru/blog/reviews/</loc>
-    <lastmod>2020-04-22T21:53:36+03:00</lastmod>
+    <lastmod>2020-04-23T13:48:26+03:00</lastmod>
   </url>
   <url>
     <loc>http://dlblog.ru/blog/</loc>
-    <lastmod>2020-04-22T21:53:36+03:00</lastmod>
+    <lastmod>2020-04-23T13:48:26+03:00</lastmod>
   </url>
   <url>
     <loc>http://dlblog.ru/blog/web/</loc>
-    <lastmod>2020-04-22T21:53:36+03:00</lastmod>
+    <lastmod>2020-04-23T13:48:26+03:00</lastmod>
   </url>
   
 </urlset>

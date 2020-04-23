@@ -7,6 +7,17 @@
 		<atom:link href="http://dlblog.ru/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Расчет целевого пульса спортсмена</title>
+				<description><![CDATA[
+					<a href="http://dlblog.ru/blog/sport/2020-04-23-heart-rate.html"><img width="100%" src="http://dlblog.ruimages/sport/2020-04-23-heart-rate/1.jpg"></a>
+					Формула Карвонена для расчёта максимальной частоты сердечных сокращений и целевого пульса.
+					]]></description>
+				<pubDate>Thu, 23 Apr 2020 00:00:00 +0300</pubDate>
+				<link>http://dlblog.ru/blog/sport/2020-04-23-heart-rate.html</link>
+				<guid isPermaLink="true">http://dlblog.ru/blog/sport/2020-04-23-heart-rate.html</guid>
+			</item>
+		
+			<item>
 				<title>Дерганье картинки после монтажа</title>
 				<description><![CDATA[
 					<a href="http://dlblog.ru/blog/lifehacks/2020-04-21-framerate-on-render.html"><img width="100%" src="http://dlblog.ruimages/lifehacks/2020/2020-04-21-framerate-on-render/1.jpg"></a>
